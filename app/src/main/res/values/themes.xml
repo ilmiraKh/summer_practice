@@ -3,6 +3,8 @@
     <style name="Base.Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">@color/primary</item>
+        <item name="background">@color/primarytwo</item>
+        <item name="font">@font/roboto_bold_italic</item>
     </style>
 
     <style name="Theme.MyApp" parent="Base.Theme.MyApp" />
