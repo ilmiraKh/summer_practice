@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/oneFragment"
+        android:icon="@drawable/help"
+        android:title="что?" />
+    <item
+        android:id="@+id/twoFragment"
+        android:icon="@drawable/dolphin"
+        android:title="дельфин"/>
+    <item
+        android:id="@+id/threeFragment"
+        android:icon="@drawable/horse"
+        android:title="лошадь"/>
+    <item
+        android:id="@+id/fourFragment"
+        android:icon="@drawable/bee"
+        android:title="пчела"/>
+    <item
+        android:id="@+id/fiveFragment"
+        android:icon="@drawable/snake"
+        android:title="змея"/>
+
+</menu>

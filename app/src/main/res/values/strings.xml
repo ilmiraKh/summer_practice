@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="hello_blank_fragment">One Screen</string>
+    <string name="end">конец</string>
 </resources>
